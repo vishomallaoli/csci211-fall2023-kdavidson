@@ -12,6 +12,7 @@ Clone the repository to access all materials:
 ```shell
 git clone https://github.com/vishoTheEver/csci211-fall2023-kdavidson.git
 
+## Repository Structure
 ├── labs/
 │   ├── lab1/
 │   ├── lab2/
