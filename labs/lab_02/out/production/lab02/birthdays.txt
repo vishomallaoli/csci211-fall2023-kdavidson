@@ -1,0 +1,27 @@
+5 6 George Clooney
+10 8 Bruno Mars
+4 4 Maya Anglelou
+3 14 Albert Einstein
+10 28 Bill Gates
+2 17 Michael Jordan
+2 12 Abraham Lincoln
+6 4 Angelina Jolie
+4 21 Queen Elizabeth II
+12 18 Brad Pitt
+9 17 Jimmie Johnson
+5 6 Johnny Vaught
+9 25 Barbara Walters
+9 19 Jimmy Fallon
+2 6 Tom Brokaw
+1 8 Elvis Presley
+1 17 Michelle Obama
+4 3 Eddie Murphy
+4 30 Johnny Galecki
+3 24 Jim Parsons
+4 30 Kunal Nayyar
+6 23 Melissa Rauch
+9 10 Jack Ma
+8 30 Warren Buffett
+11 7 Marie Curie
+
+
