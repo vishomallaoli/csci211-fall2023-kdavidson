@@ -11,3 +11,14 @@ Welcome to a detailed archive of materials from CSCI 211, conducted by Kristin D
 Clone the repository to access all materials:
 ```shell
 git clone https://github.com/vishoTheEver/csci211-fall2023-kdavidson.git
+
+├── labs/
+│   ├── lab1/
+│   ├── lab2/
+│   └── ...
+├── projects/
+│   ├── project1/
+│   └── ...
+└── code_snippets/
+    ├── lecture1/
+    └── ...
