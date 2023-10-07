@@ -23,7 +23,7 @@ This project is part of the CSCI 211 course at the University of Mississippi. It
 
 1️⃣ Clone the repository:
    ```
-   git clone https://github.com/vishoTheEver/rheti-personality-test.git
+   git clone https://github.com/csci211-fall2023-kdavidson/projects/rheti-personality-test.git
    ```
 2️⃣ Open the project in IntelliJ IDEA and configure it as a Maven project.  
 3️⃣ Add the provided Java files to the project.
