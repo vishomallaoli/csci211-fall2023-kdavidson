@@ -1,0 +1,6 @@
+public class Driver {
+    public static void main(String[] args) {
+        PostfixEvaluator evaluator = new PostfixEvaluator();
+        System.out.println(evaluator.evaluate("3 4 + 2 * 7 /")); // Should output 2
+    }
+}
