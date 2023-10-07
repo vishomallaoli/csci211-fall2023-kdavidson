@@ -10,4 +10,4 @@ Welcome to a detailed archive of materials from CSCI 211, conducted by Kristin D
 ## Usage
 Clone the repository to access all materials:
 ```shell
-git clone https://github.com/[YourGitHubUsername]/csci211-fall2023-kdavidson-labsprojects.git
+git clone https://github.com/[YourGitHubUsername]/csci211-fall2023-kdavidson.git
